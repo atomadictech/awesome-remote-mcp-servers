@@ -252,6 +252,11 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [Atomadic](https://atomadic.tech)
+
+- **Offers:** Formally verified AI safety APIs — trust scoring, DeFi optimization, VRF gaming, MEV protection. x402 USDC micropayments. 116+ endpoints.
+- **Access:** Remote MCP endpoint at `https://atomadic.tech/mcp` (Streamable HTTP). x402 USDC micropayments required; see [Docs](https://atomadic.tech/.well-known/agent.json) for full endpoint catalog.
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
